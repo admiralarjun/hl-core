@@ -1,40 +1,20 @@
 {
-    "name": "flarum/core",
-    "description": "Delightfully simple forum software.",
+    "name": "admiralarjun/hl-core",
+    "description": "HACKLIDO Core",
     "keywords": [
-        "forum",
-        "discussion"
+        "blogging", "cybersecurity"
     ],
-    "homepage": "https://flarum.org/",
+    "homepage": "https://admiralarjun.com/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Flarum",
-            "email": "info@flarum.org",
-            "homepage": "https://flarum.org/team"
+            "name": "ARJUN",
+            "email": "info@hacklido.org",
+            "homepage": "https://hacklido.com/team"
         }
     ],
-    "funding": [
-        {
-            "type": "opencollective",
-            "url": "https://opencollective.com/flarum"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/sponsors/flarum"
-        },
-        {
-            "type": "other",
-            "url": "https://flarum.org/donate"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/flarum/framework/issues",
-        "source": "https://github.com/flarum/flarum-core",
-        "docs": "https://docs.flarum.org",
-        "forum": "https://discuss.flarum.org",
-        "chat": "https://flarum.org/chat"
-    },
+ 
+
     "require": {
         "php": ">=7.3",
         "components/font-awesome": "^5.14.0",
